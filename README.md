@@ -1,0 +1,2 @@
+# GAN-and-DCGAN-in-MNIST
+GAN and DCGAN in MNIST
